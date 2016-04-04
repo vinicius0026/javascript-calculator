@@ -1,0 +1,12 @@
+{
+    "plugins": {
+    },
+    "dontLoad": [
+        ".git",
+        ".idea"
+    ],
+    "exclude": [
+        ".git/**",
+        ".idea/**"
+    ]
+}

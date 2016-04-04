@@ -1,0 +1,10 @@
+# Ignore these files
+.*
+node_modules
+build
+
+# Don't ignore these
+!.gitignore
+!.babelrc
+!.nvmrc
+!.tern-project
