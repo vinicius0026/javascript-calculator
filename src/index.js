@@ -1,6 +1,8 @@
 import $ from 'jquery';
+import calculatorCtrl from './calculatorCtrl';
 
 $(document).ready(function () {
+
     $('.button').on('mousedown', function () {
         $(this).css('background-color', '#028090');
     });
