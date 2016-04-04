@@ -58,7 +58,8 @@
 }
 
 #main {
-    margin-top: -10px;
+    position: relative;
+    bottom: -10px;
     clear: both;
     float: right;
     font-size: 30px;
